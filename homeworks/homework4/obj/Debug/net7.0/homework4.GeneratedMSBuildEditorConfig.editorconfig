@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = homework4
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\Admin\Desktop\Study\Repo\homeworks\homework4\
+=======
+build_property.ProjectDir = c:\Users\mrfal\OneDrive\Рабочий стол\Study\Repo2\hellogit\homeworks\homework4\
+>>>>>>> 9ddb629f96df12225d7d365f3e20978c597c3a2e
